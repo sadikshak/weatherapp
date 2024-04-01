@@ -1,13 +1,6 @@
-# Analog Clock
+Weather App
+This is a simple weather application that allows users to get the current day and weather conditions for a specific city.
 
-This project is a simple analog clock built using HTML, CSS, and JavaScript. It displays the current time in a traditional analog format with hour, minute, and second hands.
-
-
-## Features
-
-- Displays the current time in analog format.
-- Smooth rotation of clock hands to show the passage of time.
-
-## Usage
-
-Simply open the `main.html` file in a web browser to view the analog clock. The clock will start running automatically, displaying the current time.
+Features
+Get Current Day: Click on the "Show Today's Day" button to display the current day.
+Get Weather: Enter the name of a city in the input field and click on the "Get Weather" button to retrieve the current weather conditions for that city.
